@@ -35,7 +35,7 @@ do Ritmo de Festa![;
 //ファンキーなひとときを[l
 //楽しんでくださいネ![;
 Espero que se divirta[l
-com esse jogo![;
+nessa festa![;
 
 #WRITE(RtPtr, $A33424)
 // 0x805dfcc

@@ -21,21 +21,21 @@
 
 #WRITE(RtPtr, $A324DC)
 // 0x805df4c
-//Welcome to[l
-//this funky game,[l
-//the RHYTHM TEN-[l
-//GOKU world!![;
-Welcome to the[l
-funky world of[l
-Rhythm Heaven Advance![;
+//Bem vindo[l
+//à esse jogo massa,[l
+//o RITMO[l
+//DE FESTA!![;
+Bem vindo à[l
+festa divertda[l
+do Ritmo de Festa![;
 
 #WRITE(RtPtr, $A32CA4)
 // 0x805df88
 //リズム天国へ ようこそ！[l
 //ファンキーなひとときを[l
 //楽しんでくださいネ![;
-I hope you have a good time[l
-with this game![;
+Espero que se divirta[l
+com esse jogo![;
 
 #WRITE(RtPtr, $A33424)
 // 0x805dfcc
@@ -43,7 +43,7 @@ with this game![;
 //お会いしましょう！[l
 //see you![;
 [l
-Well, see you later![;
+Te vejo depois![;
 
 // Welcome! Speech
 
@@ -53,44 +53,44 @@ Well, see you later![;
 //それは潜在的に[l
 //みんなが持っている[l
 //ものなんです。[;
-Sense of rhythm--[l
-Everyone has one in some[l
-form or fashion.[;
+O ritmo--[l
+Todo mundo tem ele[l
+de uma forma ou outra.[;
 
 #WRITE(RtPtr, $A33B74)
 // 0x805e03c
 //リズム感は[l
 //意識していれば[l
 //どんどん良くなります。[;
-And with some mindfulness,[l
-that sense of rhythm can[l
-be sharpened like any skill.[;
+E com um pouco de concentração,[l
+esse ritmo pode ser melhorado[l
+como qualquer outra habilidade.[;
 
 #WRITE(RtPtr, $A33BB0)
 // 0x805e070
 //さて、まずは[l
 //あなたのリズム感を[l
 //かるく見てみましょう。[;
-Why don't we take a[l
-quick look at your[l
-sense of rhythm?[;
+Que tal a gente dar[l
+uma olhada no[l
+seu ritmo?[;
 
 #WRITE(RtPtr, $A33C70)
 // 0x805e0a8
 //どうでしたか？[l
 //納得のいく結果が[l
 //出せましたか？[;
-How did you do? Did you get[l
-a score you're happy with?[;
+Como você se saiu? Ganhou[l
+uma pontuação boa?[;
 
 #WRITE(RtPtr, $A33CAC)
 // 0x805e0d8
 //潜在的なリズム感は[l
 //訓練によって[l
 //成長するんです。[;
-Well, your sense of[l
-rhythm can only grow[l
-with some practice, so...[;
+Bom, o seu ritmo só[l
+vai melhorar se você[l
+praticar, então...[;
 
 #WRITE(RtPtr, $A33CE8)
 // 0x805e10c
@@ -98,104 +98,104 @@ with some practice, so...[;
 //リズミカルなゲームで[l
 //楽しくリズム感を[l
 //みがいてみてください。[;
-Leap into some of these[l
-games and you might[l
-just find it getting[l
-sharper and sharper![;
+Vamos jogar um pouco,[l
+e vai se ver com[l
+um ritmo pronto[l
+pra festa![;
 
 #WRITE(RtPtr, $A33D24)
 // 0x805e15c
 //では、またあとで[l
 //お会いしましょう。[;
-With that, I'll see you 'round![;
+Com isso dito, te vejo por ai![;
 
 // Rhythm Test
 
 #WRITE(RtPtr, $A40CD4)
 // 0x805f078
 //あなたのリズム感をしらべましょう[;
-Let's find out how good your rhythm is.[;
+Vamos ver o quão bom é seu ritmo.[;
 
 #WRITE(RtPtr, $A40CF8)
 // 0x805f09c
 //これから、３回のテストをします[;
-We're going to do three tests.[;
+Faremos três testes.[;
 
 #WRITE(RtPtr, $A40D1C)
 // 0x805f0bc
 //では、１回目です[;
-Here's the first rhythm test.[;
+Lá vem o primeiro.[;
 
 #WRITE(RtPtr, $A3E150)
 // 0x805eed8
 //音に合わせて、Ａボタンを押してください[;
-Press [A_button] in time with the signal.[;
+Aperte [A_button] junto do 'bip'.[;
 
 #WRITE(RtPtr, $A3E510)
 // 0x805ef00
 //あと半分[;
-You're halfway there![;
+Você tá quase lá![;
 
 #WRITE(RtPtr, $A40D88)
 // 0x805f0d0
 //２回目のテスト、いきます[;
-Let's move on to the second test.[;
+Bora pro segundo teste.[;
 
 #WRITE(RtPtr, $A3E72C)
 // 0x805ef18
 //「ゼロ」と同時に、Ａボタンを押してください[;
-Press [A_button] when the timer hits "0".[;
+Aperte [A_button] quando a contagem chegar a "0".[;
 
 #WRITE(RtPtr, $A3E8F4)
 // 0x805ef44
 //音が消えるところは、心でカウントしてください[;
-When there's no sound, count[l
-to yourself to keep the beat.[;
+Se o som parar, conte na sua cabeça[l
+para se manter no ritmo.[;
 
 #WRITE(RtPtr, $A3EAE0)
 // 0x805ef74
 //では、測定をはじめます[;
-Now, let's start measuring.[;
+Agora vamos começar a pontuar.[;
 
 #WRITE(RtPtr, $A40DF4)
 // 0x805f0ec
 //さいごのテストです[;
-This is the final test.[;
+Esse é o ultimo teste.[;
 
 #WRITE(RtPtr, $A40178)
 // 0x805ef8c
 //音に合わせて、Ａボタンを押してください[;
-Press [A_button] in time with the signal.[;
+Aperte [A_button] junto do 'bip' de novo.[;
 
 #WRITE(RtPtr, $A402E0)
 // 0x805efb4
 //そのまま、キープしつづけて下さい[;
-Keep it up like this![;
+Continue assim![;
 
 #WRITE(RtPtr, $A40CB0)
 // 0x805efd8
 //だいぶ、努力が必要かも…[;
-You'll have to put in a lot of effort...[;
+Você tem que melhorar muito ainda...[;
 
 #WRITE(RtPtr, $A40CAC)
 // 0x805eff4
 //もう少し、がんばりましょう。[;
-You'll need to try a little harder.[;
+Vai ter que se esforçar mais.[;
 
 #WRITE(RtPtr, $A40CA8)
 // 0x805f014
 //人並みの正確さをお持ちです。[;
-You're as accurate as any person could be.[;
+Uau! Você tem um otimo ritmo interno[;
 
 #WRITE(RtPtr, $A40CA4)
 // 0x805f034
 //正確な体内時計をお持ちです！[;
-You have an accurate biological clock![;
+Você é o melhor que uma pessoa pode ser![;
 
 #WRITE(RtPtr, $A40CA0)
 // 0x805f054
 //すごい！　電波時計なみの正確さ！！[;
-Incredible! You're as precise as an atomic clock![;
+INCRIVEL! Você é tão certeiro quanto um relógio atómico[;
 
 // Concert
 

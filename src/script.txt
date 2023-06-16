@@ -25,8 +25,8 @@
 //à esse jogo massa,[l
 //o RITMO[l
 //DE FESTA!![;
-Bem vindo à[l
-festa divertda[l
+Bem vindo a[l
+festa divertida[l
 do Ritmo de Festa![;
 
 #WRITE(RtPtr, $A32CA4)
@@ -62,9 +62,9 @@ de uma forma ou outra.[;
 //リズム感は[l
 //意識していれば[l
 //どんどん良くなります。[;
-E com um pouco de concentração,[l
-esse ritmo pode ser melhorado,[l
-que nem qualquer outra habilidade.[;
+E so se concentrar um pouco,[l
+e vai ter um otimo ritmo em[l
+pouquissimo tempo![;
 
 #WRITE(RtPtr, $A33BB0)
 // 0x805e070
@@ -80,17 +80,17 @@ seu ritmo?[;
 //どうでしたか？[l
 //納得のいく結果が[l
 //出せましたか？[;
-Como você se saiu? Ganhou[l
-uma pontuação boa?[;
+Como voce se saiu? Ganhou[l
+uma pontuacao boa?[;
 
 #WRITE(RtPtr, $A33CAC)
 // 0x805e0d8
 //潜在的なリズム感は[l
 //訓練によって[l
 //成長するんです。[;
-Bom, o seu ritmo só[l
-vai melhorar se você[l
-praticar, então...[;
+Bom, o seu ritmo so[l
+vai melhorar se voceê[l
+praticar, entao...[;
 
 #WRITE(RtPtr, $A33CE8)
 // 0x805e10c
@@ -114,17 +114,17 @@ Com isso dito, te vejo por ai![;
 #WRITE(RtPtr, $A40CD4)
 // 0x805f078
 //あなたのリズム感をしらべましょう[;
-Vamos ver o quão bom é seu ritmo.[;
+Vamos ver o quao bom seu ritmo é.[;
 
 #WRITE(RtPtr, $A40CF8)
 // 0x805f09c
 //これから、３回のテストをします[;
-Faremos três testes.[;
+Faremos tres testes.[;
 
 #WRITE(RtPtr, $A40D1C)
 // 0x805f0bc
 //では、１回目です[;
-Lá vem o primeiro.[;
+La vem o primeiro.[;
 
 #WRITE(RtPtr, $A3E150)
 // 0x805eed8
@@ -134,7 +134,7 @@ Aperte [A_button] junto do 'bip'.[;
 #WRITE(RtPtr, $A3E510)
 // 0x805ef00
 //あと半分[;
-Você tá quase lá![;
+Voce ta quase la![;
 
 #WRITE(RtPtr, $A40D88)
 // 0x805f0d0
@@ -149,18 +149,18 @@ Aperte [A_button] quando a contagem chegar a "0".[;
 #WRITE(RtPtr, $A3E8F4)
 // 0x805ef44
 //音が消えるところは、心でカウントしてください[;
-Se o som parar, conte na sua cabeça[l
+Se o som parar, conte na sua cabeca[l
 para se manter no ritmo.[;
 
 #WRITE(RtPtr, $A3EAE0)
 // 0x805ef74
 //では、測定をはじめます[;
-Agora vamos começar a pontuar.[;
+Agora vamos comecar a pontuar.[;
 
 #WRITE(RtPtr, $A40DF4)
 // 0x805f0ec
 //さいごのテストです[;
-Esse é o ultimo teste.[;
+Aqui esta o ultimo teste.[;
 
 #WRITE(RtPtr, $A40178)
 // 0x805ef8c
@@ -180,7 +180,7 @@ Você tem que melhorar muito ainda...[;
 #WRITE(RtPtr, $A40CAC)
 // 0x805eff4
 //もう少し、がんばりましょう。[;
-Vai ter que se esforçar mais.[;
+Vai ter que se esforcar mais.[;
 
 #WRITE(RtPtr, $A40CA8)
 // 0x805f014
@@ -195,7 +195,7 @@ Você é o melhor que uma pessoa pode ser![;
 #WRITE(RtPtr, $A40CA0)
 // 0x805f054
 //すごい！　電波時計なみの正確さ！！[;
-INCRIVEL! Você é tão certeiro quanto um relógio atómico[;
+INCRIVEL! Voce é tao certeiro quanto um relogio atomico[;
 
 // Concert
 
